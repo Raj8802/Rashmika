@@ -2,7 +2,7 @@ See<p align="center">
   <img src="assets/AJAX.png" alt="Ajax Techz">
 </p>
 <h1 align="center">
-  <b>ᗩᒍᗩ᙭ 𝙸𝙼𝙳𝙱 𝙱𝙾𝚃 𝚅3</b>
+  <b>ᗰETᖇO 𝙸𝙼𝙳𝙱 𝙱𝙾𝚃 𝚅3</b>
 </h1>
 <a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
   <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-red?logo=youtube" width="150">
@@ -50,7 +50,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Aadhi000/Ajax">
+<a href="https://heroku.com/deploy?template=https://github.com/Raj8802/Rashmika">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -96,5 +96,5 @@ python3 bot.py
 • /broadcast - to broadcast a message to Ajax users
 ```
 
-<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [ᴀᴀᴅʜɪ](https://telegram.dog/AboutAadhi) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/aadhi.xr/) | [ɢɪᴛʜᴜʙ](GitHub.com/Aadhi000)</b>                                                                                                                                                                                    
-<b>ᴄʜᴀɴɴᴇʟ ›› [ᴍᴡ ᴜᴘᴅᴀᴛᴇᴢ](https://t.me/MWUpdatez)</b>
+<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [𝐌𝐄𝐓𝐑𝐎𝐌𝐀𝐍](https://t.me/metrohdmovies)                                                                                                                                                                                   
+<b>ᴄʜᴀɴɴᴇʟ ›› [𝐌𝐇𝐃𝐌 𝐔𝐏𝐃𝐀𝐓𝐄𝐙](https://t.me/metrohdmovies)</b>
